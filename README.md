@@ -1,24 +1,11 @@
-👋 Hi, I'm Sujal Koshta — Full-Stack Developer | UI/UX Enthusiast | ML Explorer  
-💡 Passionate about building clean interfaces and intelligent systems.
+👋 Hi, I'm Sujal Koshta — Full-Stack Developer & ML Enthusiast  
+🛠️ Skilled in React, Node.js, MongoDB, Tailwind, and FastAPI  
+🎨 Exploring UI/UX fundamentals | 🤖 Passionate about Machine Learning
 
-🧠 Currently exploring the intersection of Web Development & Machine Learning.
-💻 Tech Stack:
-- Frontend: React.js, Tailwind CSS, Redux
-- Backend: Node.js, FastAPI, MongoDB
-- Other: Python, Machine Learning, Data Analytics
+🚀 Notable Projects:
+- **Skillnavigator** – AI-driven learning platform
+- **Loconomi** – Hyperlocal service matcher (real-time)
+- **CoE Platform** – Event & content management system
 
-🚀 Currently exploring:
-- Real-time systems (WebSockets, Redis)
-- AI/ML integrations into web apps
-- Open-source collaboration and scalable architecture
-
-🛠️ Projects Highlights:
-- **Skillnavigator** – An AI-powered learning platform with adaptive testing and role-based learning paths
-- **Loconomi** – A decentralized hyperlocal service matcher using live geolocation and real-time sockets
-- **Center of Excellence Platform** – Industry-grade event and content management platform with secure admin dashboards
-
-🌱 Learning: Advanced AI/ML applications and cloud-native development  
-🤝 Open to: Collaborations on industry-level full-stack or AI-integrated projects  
-📫 Reach me: sujalkoshtawork@gmail.com | [LinkedIn](https://linkedin.com/in/sujalkoshta) | [GitHub](https://github.com/sujaldef)
-
-🧠 Always learning. Always building.
+📚 Currently learning: ML system design & smart UX  
+📫 Reach me: sujalkoshtawork@gmail.com | [LinkedIn](https://linkedin.com/in/sujalkoshta)
