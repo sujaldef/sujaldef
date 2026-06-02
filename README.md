@@ -30,6 +30,10 @@ I work at the intersection of **LLM agents**, **deep learning**, and **scalable 
 
 ## Experience
 
+**Software Engineering Intern** · eHawkers Marketing &nbsp;`Jun 2026–Present`
+
+Building and maintaining full-stack web applications using **React, Node.js, Express.js, and MongoDB** — developing client-facing features, optimizing performance, and contributing to production deployments.
+
 **Software Development Intern** · ZenVoyager &nbsp;`Jan–Feb 2026`  
 Built 2 production modules end-to-end (frontend + backend) — live features used by **30,000+ users** on a safety platform for Hero MotoCorp CSR.
 
