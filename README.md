@@ -18,7 +18,7 @@
 
 ---
 
-B.Tech CSE @ Medicaps University, Indore · 2 internships · building AI-powered full-stack systems since 2023.
+B.Tech CSE @ Medicaps University, Indore · 4 internships · building AI-powered full-stack systems since 2024.
 
 I work at the intersection of **LLM agents**, **deep learning**, and **scalable web engineering** — shipping things that are live, used by real people, and do something intelligent.
 
@@ -30,7 +30,7 @@ I work at the intersection of **LLM agents**, **deep learning**, and **scalable 
 
 ## Experience
 
-**Software Engineering Intern** · eHawkers Marketing &nbsp;`Jun 2026–Present`
+**Software Engineering Intern** · eHawkers Marketing &nbsp;`Jun–jul 2026`
 
 Building and maintaining full-stack web applications using **React, Node.js, Express.js, and MongoDB** — developing client-facing features, optimizing performance, and contributing to production deployments.
 
