@@ -30,14 +30,16 @@ I work at the intersection of **LLM agents**, **deep learning**, and **scalable 
 
 ## Experience
 
-**Software Engineering Intern** · eHawkers Marketing &nbsp;`Jun–jul 2026`
+**Software Developer Intern** · eHawkers Marketing LLP &nbsp;`Jun–Jul 2026`
 
-Building and maintaining full-stack web applications using **React, Node.js, Express.js, and MongoDB** — developing client-facing features, optimizing performance, and contributing to production deployments.
+Developed and maintained production-grade MERN stack applications using **React, Node.js, Express.js, and MongoDB**, implementing new features, debugging complex issues, integrating REST APIs, and collaborating with cross-functional teams to deliver scalable web solutions.
 
-**Software Development Intern** · ZenVoyager &nbsp;`Jan–Feb 2026`  
-Built 2 production modules end-to-end (frontend + backend) — live features used by **30,000+ users** on a safety platform for Hero MotoCorp CSR.
+**Software Development Intern** · ZenVoyager &nbsp;`Jan–Feb 2026`
 
-**Software Development Intern** · 47Billion &nbsp;`Apr–May 2025`  
+Owned the development of two production-ready modules for **Hero MotoCorp's Surakshit Saathi** CSR platform, building frontend and backend features for a live application serving **60,000+ users** with multilingual onboarding, QR-based workflows, and safety certification management.
+
+**Software Development Intern** · 47Billion &nbsp;`Apr–May 2025` 
+
 Built and shipped a full-stack CoE platform with OAuth2/JWT auth, admin + user dashboards, and real-time notifications.
 
 ---
@@ -48,9 +50,10 @@ Built and shipped a full-stack CoE platform with OAuth2/JWT auth, admin + user d
 |---|---|---|
 | [**ADIA**](https://github.com/sujaldef) — Autonomous Data Intelligence Agent | FastAPI · LangChain · RAG | ReAct-style LLM agent that converts natural language → SQL, runs analytical workflows with anomaly detection |
 | [**OpenRepo**](https://github.com/sujaldef) — AI Code Analysis Platform | FastAPI · ML · LLM | Multi-stage pipeline: defect detection → ML classification → LLM recommendations. Trained on 800MB+ datasets |
-| [**Medi-Setu**](https://github.com/sujaldef) — AI Telemedicine Platform | React · FastAPI · ML | Full-stack telemedicine with ML disease prediction (symptom + image), recommendation → prescription pipeline |
-| [**Skillnavigator**](https://github.com/sujaldef/Skillnavigator) — Adaptive Learning | React · MongoDB · AI | AI-powered learning platform across 250+ job roles with intelligent assessments and progress tracking |
-
+| **[Hero MotoCorp Surakshit Saathi](https://csr.heromotocorp.com/surakshit-saathi/)** | React · Node.js · MongoDB | Production CSR platform for safety training, multilingual onboarding, QR attendance, certifications, and referral management, serving **60,000+ users**. |
+| **[Hero MotoCorp PMO Dashboard](https://csr.heromotocorp.com/admin-panel/login)** | React · Node.js · MongoDB | Enterprise admin dashboard for managing **60,000+ users**, 20+ admins, 300+ tasks, QR-based result tracking, zone monitoring, and certificate generation. |
+| **[Bhojankart](https://bhojankart.com/)** | React · Node.js · MongoDB · Cashfree | Full-stack meal subscription platform with dynamic pricing, meal customization, subscriptions, and secure online payments. |
+| **[Bhojankart Admin Dashboard](https://admin.bhojankart.com/)** | React · Node.js · MongoDB | Operations dashboard with live analytics, delivery logistics, subscription & payment management, support ticketing, RBAC, and kitchen dispatch automation. |
 ---
 
 ## Tech
