@@ -18,7 +18,7 @@
 
 ---
 
-B.Tech CSE @ Medicaps University, Indore · 4 internships · building AI-powered full-stack systems since 2024.
+B.Tech CSE @ Medicaps University, Indore · 3 internships · building AI-powered full-stack systems since 2024.
 
 I work at the intersection of **LLM agents**, **deep learning**, and **scalable web engineering** — shipping things that are live, used by real people, and do something intelligent.
 
